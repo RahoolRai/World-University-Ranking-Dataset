@@ -1,0 +1,501 @@
+University_Name,Country,World_Rank,Research_Score,Teaching_Score,Citations,Student_Staff_Ratio,International_Students_Percent
+University of Germany 1,USA,1,89.39,90.74,17801.0,18.2,47.9
+University of India 2,India,2,40.22,36.62,73706.0,9.8,
+University of South Korea 3,Canada,3,84.81,82.06,92057.0,16.4,47.2
+University of Australia 4,India,4,31.17,78.04,82354.0,26.2,57.1
+University of China 5,France,5,91.69,89.74,39867.0,11.4,
+University of Germany 6,India,6,98.64,94.82,13155.0,13.4,58.0
+University of Japan 7,Australia,7,39.57,47.47,54466.0,19.1,44.6
+University of Australia 8,Japan,8,92.77,97.15,63468.0,16.1,28.9
+University of India 9,South Korea,9,64.17,58.32,96518.0,24.1,25.6
+University of China 10,India,10,70.74,85.97,73249.0,6.5,13.6
+University of UK 11,China,11,44.53,82.42,49972.0,29.5,36.7
+University of India 12,Canada,12,96.27,71.83,19561.0,27.3,32.7
+University of Canada 13,South Korea,13,72.11,96.58,2056.0,14.3,28.5
+University of UK 14,South Korea,14,40.04,38.46,50567.0,19.5,23.0
+University of India 15,India,15,63.04,31.64,8157.0,26.4,12.0
+University of Australia 16,South Korea,16,59.04,62.96,36749.0,10.6,10.2
+University of Australia 17,UK,17,71.0,99.97,72958.0,22.7,23.3
+University of Germany 18,Australia,18,62.33,90.15,58295.0,28.5,9.5
+University of France 19,Germany,19,84.04,79.96,37594.0,21.4,44.6
+University of India 20,India,20,38.65,33.77,23725.0,11.7,22.8
+University of South Korea 21,Germany,21,88.3,84.49,,5.2,7.6
+University of UK 22,USA,22,40.63,77.94,55436.0,9.3,52.6
+University of China 23,USA,23,74.64,73.52,97293.0,24.3,21.4
+University of UK 24,UK,24,34.06,44.92,76961.0,22.7,30.8
+University of Germany 25,Japan,25,62.61,79.0,75275.0,20.2,35.4
+University of Germany 26,South Korea,26,91.58,43.93,85121.0,7.2,6.2
+University of China 27,UK,27,31.38,67.0,90389.0,10.9,24.2
+University of Japan 28,Japan,28,49.14,83.31,61198.0,26.1,31.4
+University of China 29,Germany,29,58.58,82.05,23816.0,13.5,36.4
+University of India 30,South Korea,30,95.18,96.4,99732.0,16.9,31.1
+University of UK 31,Germany,31,65.56,,78988.0,26.1,31.5
+University of Germany 32,France,32,66.83,51.51,43617.0,5.1,28.7
+University of UK 33,China,33,61.73,58.52,48942.0,21.9,55.4
+University of India 34,Japan,34,83.7,30.05,60238.0,22.2,50.4
+University of South Korea 35,Canada,35,47.1,43.41,64728.0,13.7,18.5
+University of Germany 36,Canada,36,49.84,44.27,69815.0,16.9,59.4
+University of UK 37,Japan,37,64.23,49.08,43412.0,18.9,16.8
+University of India 38,USA,38,62.23,50.54,51275.0,29.5,41.5
+University of Japan 39,Germany,39,57.62,55.66,58846.0,20.9,53.2
+University of India 40,France,40,83.11,67.64,58178.0,27.3,43.4
+University of Canada 41,Japan,41,76.17,34.03,22680.0,18.9,32.6
+University of South Korea 42,India,42,36.47,97.89,80212.0,7.3,
+University of Canada 43,France,43,62.38,33.33,51541.0,9.4,17.2
+University of Australia 44,Canada,44,50.62,52.88,59322.0,26.6,39.6
+University of Japan 45,USA,45,33.49,43.38,35146.0,14.7,53.1
+University of Australia 46,Japan,46,81.02,43.54,98745.0,17.7,29.6
+University of Canada 47,UK,47,72.39,94.19,94645.0,24.1,45.6
+University of Japan 48,Japan,48,99.2,36.4,1327.0,23.7,15.5
+University of France 49,France,49,62.63,66.33,85517.0,26.9,56.6
+University of Germany 50,Canada,50,63.04,65.4,75736.0,9.2,15.3
+University of France 51,Canada,51,79.94,57.24,22501.0,16.4,28.7
+University of India 52,Germany,52,54.42,,,19.9,51.5
+University of India 53,Australia,53,52.74,88.05,96035.0,17.6,30.6
+University of USA 54,India,54,67.77,76.19,55015.0,11.9,
+University of France 55,Canada,55,91.02,70.4,98740.0,11.5,25.2
+University of Canada 56,China,56,47.96,36.31,22595.0,22.7,38.9
+University of Canada 57,France,57,68.35,70.06,23732.0,11.0,31.8
+University of Japan 58,Japan,58,63.51,36.24,84723.0,21.3,23.0
+University of South Korea 59,China,59,33.37,57.14,18318.0,29.9,43.5
+University of Japan 60,USA,60,81.8,54.0,,12.0,20.1
+University of Germany 61,France,61,39.89,60.23,40610.0,14.4,17.2
+University of France 62,India,62,77.92,46.61,68757.0,6.7,21.6
+University of UK 63,France,63,87.12,,48743.0,15.6,25.5
+University of USA 64,USA,64,59.41,66.05,20822.0,7.0,22.1
+University of China 65,South Korea,65,77.54,69.32,75396.0,9.8,41.2
+University of USA 66,France,66,44.76,48.65,61428.0,22.4,57.9
+University of UK 67,UK,67,78.78,69.14,28641.0,19.0,5.6
+University of France 68,UK,68,78.91,70.21,47095.0,27.2,24.9
+University of Japan 69,France,69,55.96,95.86,18285.0,10.3,48.5
+University of Germany 70,India,70,76.17,35.24,21043.0,26.3,44.2
+University of South Korea 71,South Korea,71,80.28,55.67,,13.5,20.3
+University of South Korea 72,Australia,72,63.59,63.54,13891.0,29.5,40.3
+University of Germany 73,UK,73,84.85,45.43,5878.0,23.6,17.0
+University of India 74,China,74,79.17,40.77,44947.0,7.5,55.2
+University of UK 75,South Korea,75,75.26,31.11,77461.0,26.6,27.1
+University of Canada 76,UK,76,89.08,89.69,28417.0,21.0,52.8
+University of France 77,South Korea,77,41.81,36.07,32655.0,18.4,10.7
+University of China 78,Germany,78,62.63,91.09,19327.0,19.5,59.4
+University of China 79,USA,79,35.77,66.06,79329.0,5.8,10.6
+University of Germany 80,Germany,80,82.18,51.49,38093.0,19.0,14.6
+University of China 81,Germany,81,96.22,36.38,89524.0,24.7,9.9
+University of France 82,China,82,41.77,,7953.0,25.8,43.2
+University of South Korea 83,Japan,83,71.38,50.98,12949.0,7.1,37.9
+University of UK 84,UK,84,74.23,81.38,89148.0,25.4,9.2
+University of Germany 85,USA,85,70.2,36.02,46663.0,5.0,23.3
+University of Australia 86,Canada,86,98.4,80.01,,11.0,25.6
+University of India 87,UK,87,75.45,52.93,64145.0,13.7,31.8
+University of Canada 88,Australia,88,63.96,,5882.0,14.7,58.7
+University of Canada 89,India,89,55.98,95.18,90027.0,25.6,45.6
+University of India 90,Germany,90,88.08,54.52,96851.0,25.0,21.1
+University of South Korea 91,UK,91,43.34,62.24,90711.0,18.1,38.6
+University of Australia 92,France,92,98.34,57.98,32068.0,20.6,18.0
+University of China 93,Japan,93,87.39,,50188.0,20.5,47.5
+University of USA 94,China,94,63.47,86.87,23367.0,20.7,48.1
+University of USA 95,USA,95,83.24,,67963.0,26.6,29.9
+University of USA 96,Australia,96,97.04,40.54,39288.0,8.5,6.5
+University of India 97,India,97,100.0,31.61,25855.0,12.1,28.7
+University of India 98,Japan,98,73.12,44.38,56855.0,18.8,52.0
+University of USA 99,Germany,99,68.31,54.72,46875.0,23.9,57.1
+University of USA 100,Japan,100,55.33,34.57,96254.0,8.3,51.3
+University of Japan 101,Canada,101,32.54,65.44,81697.0,16.6,12.9
+University of UK 102,UK,102,69.18,66.28,9273.0,5.7,23.8
+University of Germany 103,Canada,103,62.67,48.62,64008.0,25.8,37.1
+University of France 104,UK,104,61.43,51.94,4439.0,29.1,13.9
+University of South Korea 105,France,105,67.59,98.3,16206.0,20.8,40.2
+University of UK 106,France,106,34.96,80.56,34181.0,29.8,57.2
+University of USA 107,Canada,107,54.09,61.96,48834.0,26.0,28.9
+University of Japan 108,India,108,66.05,43.29,4627.0,8.3,7.2
+University of South Korea 109,South Korea,109,79.46,77.44,11408.0,18.6,
+University of Australia 110,South Korea,110,47.06,96.08,87447.0,16.9,17.4
+University of Japan 111,UK,111,37.02,69.71,6501.0,18.0,57.4
+University of USA 112,India,112,82.87,95.69,12720.0,19.0,51.4
+University of Canada 113,France,113,33.09,78.77,16324.0,16.5,8.5
+University of Germany 114,UK,114,86.79,36.72,22690.0,9.1,20.4
+University of India 115,South Korea,115,38.62,44.7,89488.0,25.7,29.0
+University of Australia 116,China,116,31.86,31.84,90011.0,27.8,
+University of Australia 117,USA,117,57.41,86.61,59624.0,13.4,53.2
+University of Japan 118,Australia,118,72.33,52.98,7099.0,24.7,47.5
+University of China 119,UK,119,51.62,63.94,95531.0,9.4,9.8
+University of Germany 120,India,120,81.86,85.52,67064.0,14.7,20.2
+University of Canada 121,Japan,121,60.56,36.23,72904.0,13.6,12.6
+University of Japan 122,Canada,122,33.4,37.85,70454.0,5.2,38.6
+University of France 123,Japan,123,92.47,74.75,13066.0,29.9,21.7
+University of China 124,South Korea,124,40.1,42.15,48886.0,12.6,18.8
+University of USA 125,UK,125,45.74,42.77,79013.0,18.2,58.9
+University of Australia 126,UK,126,35.69,65.08,17714.0,23.1,21.7
+University of Germany 127,India,127,44.55,90.31,76378.0,10.0,49.3
+University of China 128,South Korea,128,87.27,49.62,78195.0,20.8,30.0
+University of France 129,USA,129,84.88,43.14,97919.0,13.2,10.4
+University of USA 130,Germany,130,63.07,43.54,42731.0,14.7,38.2
+University of Australia 131,Australia,131,91.5,92.53,88379.0,7.0,59.5
+University of UK 132,USA,132,91.1,71.7,86608.0,6.9,6.6
+University of China 133,France,133,86.78,65.23,54764.0,21.0,18.0
+University of Canada 134,Germany,134,36.03,41.32,85345.0,25.0,58.1
+University of China 135,UK,135,40.28,89.23,29012.0,21.6,32.5
+University of India 136,India,136,30.76,,22709.0,15.9,29.6
+University of UK 137,USA,137,81.11,67.04,10973.0,12.9,58.8
+University of Germany 138,India,138,51.95,53.3,32268.0,24.9,50.7
+University of USA 139,USA,139,40.99,82.41,62593.0,20.4,49.6
+University of Germany 140,India,140,62.94,88.89,11200.0,9.0,38.8
+University of China 141,South Korea,141,93.53,43.54,21727.0,13.4,25.7
+University of USA 142,France,142,90.57,88.11,86409.0,15.0,34.1
+University of Germany 143,India,143,84.13,89.41,21508.0,12.7,46.1
+University of Germany 144,Japan,144,79.69,53.11,32614.0,27.0,37.7
+University of France 145,USA,145,87.97,95.16,43680.0,12.4,22.3
+University of Australia 146,Germany,146,76.47,41.4,54610.0,25.0,37.2
+University of China 147,India,147,93.1,61.44,71739.0,11.7,11.4
+University of Germany 148,France,148,87.19,94.97,13025.0,29.2,19.0
+University of South Korea 149,Australia,149,88.19,74.72,47603.0,20.8,42.3
+University of China 150,UK,150,67.13,62.37,44400.0,20.2,35.0
+University of India 151,USA,151,57.55,46.04,44558.0,11.0,45.0
+University of USA 152,China,152,52.36,84.46,91726.0,13.5,18.6
+University of Japan 153,Germany,153,57.99,84.39,63976.0,15.7,22.9
+University of India 154,UK,154,55.28,97.18,6380.0,10.2,14.3
+University of UK 155,South Korea,155,93.53,65.31,83268.0,9.9,40.9
+University of France 156,Japan,156,52.3,87.84,16012.0,9.1,46.2
+University of Japan 157,Germany,157,74.99,85.95,71163.0,25.1,45.2
+University of Japan 158,Canada,158,94.5,92.59,29662.0,7.0,24.8
+University of China 159,South Korea,159,52.7,82.35,33546.0,11.2,27.6
+University of Canada 160,France,160,94.63,78.68,19265.0,17.6,34.1
+University of USA 161,Canada,161,60.87,49.78,11511.0,18.2,17.3
+University of Australia 162,France,162,38.26,37.99,28826.0,5.1,22.0
+University of Canada 163,China,163,40.06,66.73,3431.0,26.8,19.8
+University of Canada 164,Germany,164,44.36,80.19,65479.0,13.5,22.9
+University of Canada 165,Germany,165,46.34,99.15,11242.0,24.0,12.6
+University of USA 166,France,166,48.62,53.68,16025.0,10.8,15.5
+University of UK 167,USA,167,93.66,46.14,99129.0,8.6,47.7
+University of China 168,UK,168,67.36,90.58,20406.0,20.5,59.8
+University of China 169,Australia,169,76.11,79.95,12266.0,18.0,59.1
+University of South Korea 170,Australia,170,99.75,54.71,84827.0,18.0,24.2
+University of Germany 171,South Korea,171,46.42,34.51,43905.0,14.9,16.2
+University of China 172,Australia,172,41.69,76.0,17830.0,18.6,
+University of France 173,UK,173,83.33,77.08,10024.0,21.7,7.6
+University of Canada 174,Australia,174,39.41,97.73,62058.0,24.1,58.5
+University of Japan 175,UK,175,88.65,95.08,74708.0,22.3,45.2
+University of India 176,Australia,176,38.27,74.55,52456.0,19.9,39.0
+University of USA 177,Germany,177,34.23,47.79,91835.0,12.9,15.2
+University of UK 178,Japan,178,79.26,75.01,9275.0,15.7,43.7
+University of China 179,India,179,64.12,54.58,87131.0,23.4,53.3
+University of Canada 180,France,180,68.36,30.86,84751.0,14.0,44.1
+University of China 181,Australia,181,48.29,70.14,9827.0,21.5,44.7
+University of USA 182,Japan,182,73.42,99.22,19084.0,14.4,51.5
+University of China 183,Japan,183,76.22,73.42,46731.0,22.5,15.2
+University of Canada 184,South Korea,184,66.55,68.25,32198.0,21.0,39.2
+University of Canada 185,Germany,185,99.84,69.2,93684.0,20.1,57.8
+University of USA 186,UK,186,65.47,57.58,46717.0,20.1,14.5
+University of UK 187,France,187,51.25,78.77,,16.5,6.0
+University of Japan 188,Canada,188,73.33,83.05,7136.0,9.1,27.3
+University of France 189,France,189,59.93,52.84,3380.0,27.3,55.0
+University of India 190,Australia,190,34.05,98.4,32150.0,14.8,20.5
+University of Germany 191,China,191,62.72,32.94,51018.0,17.6,
+University of China 192,USA,192,98.62,74.09,5088.0,22.3,41.9
+University of France 193,Australia,193,71.26,72.67,72390.0,19.2,44.8
+University of USA 194,China,194,91.96,47.69,16224.0,11.8,18.3
+University of USA 195,USA,195,47.65,91.71,,29.0,14.4
+University of France 196,India,196,60.16,44.64,60447.0,10.3,43.7
+University of Canada 197,France,197,58.09,83.9,,17.5,12.1
+University of Germany 198,South Korea,198,93.48,50.07,7180.0,28.4,49.9
+University of Japan 199,Japan,199,61.63,59.2,64736.0,13.9,37.2
+University of South Korea 200,UK,200,82.5,39.2,11006.0,16.6,26.6
+University of China 201,USA,201,89.22,89.26,9773.0,21.6,21.8
+University of Canada 202,UK,202,71.49,35.58,37110.0,16.8,
+University of Japan 203,USA,203,33.22,90.78,12766.0,23.8,42.2
+University of Germany 204,India,204,87.16,90.01,30435.0,18.7,19.6
+University of Australia 205,Canada,205,78.37,95.4,42430.0,21.9,17.5
+University of France 206,Japan,206,81.81,72.17,20447.0,9.4,14.0
+University of France 207,Australia,207,51.08,66.99,33080.0,25.8,59.6
+University of UK 208,Australia,208,85.84,67.07,8231.0,23.8,7.2
+University of USA 209,India,209,54.47,68.61,56269.0,15.2,52.1
+University of Canada 210,Canada,210,49.73,37.76,,19.8,31.9
+University of Japan 211,France,211,63.5,84.89,13509.0,22.9,51.5
+University of Canada 212,UK,212,40.94,75.46,16504.0,15.4,46.8
+University of France 213,Canada,213,65.27,60.35,97386.0,15.2,34.4
+University of Canada 214,South Korea,214,36.81,43.89,89465.0,9.3,17.9
+University of USA 215,China,215,65.54,38.65,45903.0,29.1,41.2
+University of India 216,China,216,32.02,75.84,69737.0,18.7,18.2
+University of China 217,China,217,51.96,,8103.0,16.8,
+University of India 218,Japan,218,52.33,54.58,69020.0,12.2,28.5
+University of India 219,Germany,219,68.22,85.79,58596.0,27.2,36.1
+University of USA 220,France,220,49.47,45.06,4222.0,21.4,53.1
+University of Australia 221,USA,221,94.04,94.69,26471.0,15.0,31.6
+University of Australia 222,Canada,222,69.12,39.6,24501.0,19.5,36.2
+University of UK 223,France,223,34.26,34.35,,5.9,40.7
+University of USA 224,South Korea,224,62.64,44.09,51038.0,26.6,14.7
+University of UK 225,Germany,225,49.89,68.58,68236.0,16.5,47.3
+University of France 226,Germany,226,57.69,84.97,32096.0,6.6,29.7
+University of France 227,USA,227,33.24,65.64,3401.0,25.8,22.2
+University of France 228,Japan,228,90.19,61.95,39453.0,11.0,40.2
+University of Japan 229,Canada,229,39.8,42.09,17216.0,29.5,60.0
+University of Japan 230,Japan,230,66.99,69.96,96301.0,11.1,10.7
+University of India 231,India,231,98.66,48.23,57072.0,28.5,44.4
+University of UK 232,India,232,65.64,35.4,48250.0,24.5,21.9
+University of Australia 233,USA,233,79.76,70.99,17035.0,19.8,9.2
+University of USA 234,UK,234,94.09,53.44,74141.0,27.4,20.8
+University of Australia 235,China,235,30.7,44.18,50899.0,13.5,34.3
+University of Japan 236,Australia,236,47.12,46.72,84567.0,27.7,59.7
+University of USA 237,China,237,89.18,30.28,9355.0,24.7,39.1
+University of China 238,France,238,33.92,99.51,9364.0,21.4,26.8
+University of India 239,India,239,49.44,57.31,6418.0,16.6,56.2
+University of Australia 240,Japan,240,76.03,64.89,61132.0,12.2,13.4
+University of Canada 241,Germany,241,45.1,46.28,84857.0,24.5,44.2
+University of India 242,China,242,56.64,,79085.0,14.7,27.2
+University of Germany 243,South Korea,243,49.77,93.11,47969.0,21.2,34.5
+University of Germany 244,Germany,244,99.41,49.82,80498.0,25.2,5.1
+University of Australia 245,India,245,43.55,55.52,94169.0,12.4,24.7
+University of France 246,Germany,246,41.49,97.0,27127.0,20.8,54.5
+University of UK 247,China,247,98.72,85.02,28516.0,22.7,38.8
+University of Canada 248,Australia,248,49.44,92.95,80214.0,8.5,25.1
+University of UK 249,Germany,249,46.33,,47413.0,16.7,41.0
+University of China 250,France,250,58.35,37.52,9525.0,20.0,56.0
+University of India 251,China,251,31.31,83.59,71771.0,20.2,24.5
+University of India 252,India,252,80.83,31.02,7305.0,23.3,49.6
+University of USA 253,China,253,34.01,99.23,39452.0,28.5,26.9
+University of South Korea 254,Canada,254,37.58,36.33,30286.0,15.4,8.0
+University of India 255,USA,255,48.16,53.62,66201.0,26.1,50.4
+University of China 256,UK,256,62.97,52.84,64633.0,8.4,20.1
+University of Japan 257,Canada,257,57.3,41.87,85425.0,23.0,10.1
+University of Japan 258,Germany,258,36.5,57.92,37887.0,8.0,36.6
+University of Canada 259,China,259,83.06,59.41,70274.0,21.0,
+University of UK 260,India,260,49.94,56.95,77379.0,17.1,51.6
+University of France 261,Japan,261,54.99,74.78,16341.0,13.2,26.7
+University of India 262,India,262,32.85,83.34,49723.0,21.5,29.0
+University of USA 263,France,263,57.21,36.76,29215.0,23.5,17.6
+University of South Korea 264,South Korea,264,56.56,42.51,76914.0,9.6,30.1
+University of South Korea 265,France,265,94.15,56.9,27498.0,20.3,5.7
+University of UK 266,India,266,49.78,83.84,67271.0,10.2,32.1
+University of Australia 267,China,267,86.76,90.76,83035.0,11.2,34.6
+University of France 268,South Korea,268,73.54,41.65,32889.0,10.2,36.2
+University of Australia 269,France,269,95.37,93.57,59709.0,12.8,43.6
+University of India 270,China,270,62.53,84.17,25956.0,10.0,44.5
+University of France 271,Japan,271,31.96,56.56,69156.0,9.3,20.1
+University of Canada 272,Australia,272,59.39,36.5,53876.0,13.4,50.8
+University of USA 273,Japan,273,82.25,82.54,8731.0,26.8,58.8
+University of India 274,China,274,90.4,54.5,69343.0,23.9,5.8
+University of Japan 275,India,275,69.97,34.63,41035.0,27.4,51.4
+University of China 276,Australia,276,96.33,56.53,14968.0,24.6,
+University of France 277,India,277,36.33,59.67,77825.0,27.7,47.5
+University of Germany 278,South Korea,278,42.28,47.78,64959.0,11.3,44.9
+University of Canada 279,China,279,99.8,93.34,48955.0,11.1,5.8
+University of India 280,India,280,66.12,43.21,24841.0,18.6,5.2
+University of Germany 281,France,281,73.38,87.74,49253.0,15.4,11.3
+University of UK 282,Australia,282,60.61,45.27,41752.0,6.9,54.8
+University of South Korea 283,India,283,72.32,95.28,62179.0,11.7,14.8
+University of Canada 284,Canada,284,81.5,78.76,72429.0,5.9,33.4
+University of Germany 285,UK,285,58.18,43.27,16859.0,13.4,43.0
+University of France 286,China,286,41.1,96.91,53877.0,8.8,14.3
+University of Australia 287,India,287,98.44,63.47,37711.0,7.9,54.2
+University of France 288,UK,288,32.33,60.41,43115.0,14.9,12.4
+University of Canada 289,Australia,289,49.13,84.55,69946.0,19.5,
+University of UK 290,UK,290,80.1,65.62,4676.0,10.6,8.4
+University of UK 291,Canada,291,60.0,64.83,53102.0,22.8,28.4
+University of France 292,India,292,47.9,45.54,35093.0,17.3,18.0
+University of China 293,Australia,293,51.02,76.07,59440.0,16.1,14.6
+University of USA 294,China,294,90.0,35.1,4049.0,7.9,5.8
+University of India 295,USA,295,32.45,55.41,48436.0,13.2,30.3
+University of France 296,Australia,296,41.8,67.6,51067.0,14.5,10.4
+University of UK 297,Australia,297,89.02,43.67,95941.0,26.0,20.8
+University of USA 298,South Korea,298,48.87,94.99,9119.0,29.5,27.1
+University of Germany 299,USA,299,50.49,76.64,34035.0,17.9,50.0
+University of Canada 300,USA,300,78.55,38.58,53468.0,26.2,42.0
+University of India 301,USA,301,69.58,90.47,50957.0,20.4,49.6
+University of Australia 302,India,302,69.97,44.41,46758.0,25.1,29.5
+University of Australia 303,South Korea,303,85.71,54.2,92492.0,12.9,43.8
+University of Germany 304,India,304,37.79,,72992.0,20.2,20.2
+University of Canada 305,Australia,305,49.28,69.44,87352.0,12.5,31.3
+University of Canada 306,USA,306,46.77,86.95,50108.0,15.2,13.5
+University of France 307,Germany,307,35.38,34.82,62683.0,28.4,43.4
+University of Japan 308,China,308,76.23,88.18,47273.0,14.0,26.0
+University of India 309,USA,309,87.49,92.62,15371.0,21.0,54.0
+University of India 310,Canada,310,53.79,67.02,77923.0,8.3,52.7
+University of South Korea 311,China,311,65.92,31.4,66497.0,15.1,36.9
+University of Germany 312,UK,312,38.79,44.45,41706.0,27.9,55.2
+University of Canada 313,China,313,45.1,81.12,41155.0,10.3,22.3
+University of Canada 314,Germany,314,82.3,30.32,85212.0,26.8,21.1
+University of USA 315,USA,315,41.8,76.62,4665.0,27.4,24.7
+University of South Korea 316,USA,316,97.85,76.96,10410.0,7.7,18.6
+University of Australia 317,Canada,317,32.71,40.02,28690.0,15.8,27.2
+University of UK 318,Germany,318,75.38,93.25,57695.0,17.7,59.7
+University of UK 319,China,319,50.91,40.46,20709.0,7.1,17.8
+University of Japan 320,South Korea,320,87.3,72.27,1663.0,5.5,7.7
+University of China 321,South Korea,321,32.53,95.36,75321.0,24.6,12.6
+University of UK 322,Germany,322,53.95,39.56,62158.0,19.6,27.6
+University of Japan 323,South Korea,323,97.12,78.37,56581.0,16.3,20.9
+University of France 324,Japan,324,67.84,59.69,89203.0,21.8,43.9
+University of Germany 325,USA,325,96.19,89.52,28933.0,27.4,20.9
+University of Japan 326,Australia,326,97.05,68.13,61108.0,12.3,32.8
+University of Germany 327,Japan,327,89.88,31.88,85150.0,21.0,25.2
+University of Canada 328,Germany,328,54.36,87.89,71595.0,21.1,42.9
+University of Japan 329,South Korea,329,40.78,64.53,12495.0,6.9,45.6
+University of UK 330,Japan,330,78.17,98.36,43146.0,18.1,16.7
+University of South Korea 331,Japan,331,34.37,88.72,43877.0,14.4,54.3
+University of USA 332,Japan,332,81.44,32.43,83625.0,17.4,29.1
+University of Japan 333,Australia,333,33.46,76.25,59503.0,19.5,42.2
+University of Australia 334,Australia,334,60.49,50.45,26400.0,11.8,18.6
+University of India 335,China,335,42.71,59.76,95408.0,20.9,55.8
+University of Germany 336,Australia,336,52.04,,94140.0,7.2,37.6
+University of Australia 337,South Korea,337,70.32,58.91,38323.0,15.8,41.2
+University of Canada 338,Canada,338,81.45,53.81,39972.0,17.3,25.5
+University of Japan 339,Australia,339,69.46,67.47,63498.0,20.5,56.2
+University of Germany 340,Canada,340,69.5,34.12,26287.0,13.8,43.4
+University of South Korea 341,France,341,85.58,37.59,12531.0,24.3,27.3
+University of India 342,India,342,83.49,50.92,63390.0,9.6,38.1
+University of USA 343,South Korea,343,46.67,70.39,89854.0,23.0,42.9
+University of UK 344,South Korea,344,70.35,74.66,11276.0,25.5,56.2
+University of China 345,China,345,93.39,87.76,83954.0,21.6,29.5
+University of France 346,South Korea,346,82.21,64.76,52566.0,13.0,34.9
+University of France 347,Japan,347,64.91,59.66,93967.0,11.4,55.5
+University of China 348,South Korea,348,61.82,,81572.0,15.8,50.2
+University of France 349,France,349,34.9,50.49,11205.0,25.6,16.1
+University of India 350,UK,350,98.73,84.56,65359.0,17.0,20.1
+University of Japan 351,Canada,351,71.76,81.21,88685.0,16.1,46.8
+University of India 352,USA,352,86.25,47.35,30889.0,21.6,21.8
+University of South Korea 353,Japan,353,81.42,76.64,76156.0,9.5,41.8
+University of USA 354,India,354,96.93,77.23,99854.0,28.0,15.0
+University of China 355,Germany,355,64.3,48.29,63805.0,27.2,22.0
+University of France 356,UK,356,72.03,73.55,90019.0,29.4,57.8
+University of Canada 357,Canada,357,99.61,82.47,37211.0,15.1,12.2
+University of Japan 358,China,358,69.71,88.45,16122.0,23.4,27.6
+University of China 359,Canada,359,90.05,59.12,26380.0,19.8,19.3
+University of Australia 360,Germany,360,54.52,88.51,39123.0,11.7,11.2
+University of South Korea 361,France,361,69.31,86.65,39832.0,7.4,56.8
+University of Australia 362,Germany,362,60.34,87.7,40432.0,16.5,45.6
+University of Japan 363,India,363,72.91,72.01,53707.0,28.5,25.6
+University of UK 364,UK,364,43.14,41.45,,18.0,7.9
+University of USA 365,Canada,365,70.37,33.47,97980.0,14.6,59.3
+University of USA 366,Germany,366,77.32,98.38,95586.0,25.7,25.0
+University of India 367,Australia,367,69.34,68.34,2347.0,26.0,16.8
+University of Australia 368,South Korea,368,59.74,51.84,3008.0,19.9,50.8
+University of UK 369,Germany,369,60.25,59.99,90205.0,6.3,19.2
+University of USA 370,France,370,47.48,79.3,13469.0,10.6,15.4
+University of Australia 371,Canada,371,49.34,54.77,50704.0,12.0,40.7
+University of South Korea 372,South Korea,372,79.23,43.35,89761.0,11.3,33.5
+University of India 373,Germany,373,73.53,44.02,16106.0,20.2,59.9
+University of Japan 374,France,374,33.15,88.5,27319.0,20.5,29.9
+University of India 375,Germany,375,75.03,39.43,86020.0,6.5,46.9
+University of USA 376,Germany,376,31.24,73.64,27231.0,9.3,40.2
+University of Germany 377,China,377,53.43,82.0,8111.0,10.2,11.6
+University of China 378,Canada,378,99.37,94.2,66017.0,15.7,40.3
+University of Germany 379,UK,379,99.64,37.33,46033.0,16.8,13.4
+University of Germany 380,Canada,380,93.56,75.31,57334.0,9.7,24.1
+University of UK 381,China,381,72.29,73.1,95147.0,13.6,42.6
+University of India 382,UK,382,75.32,47.12,90638.0,20.6,36.3
+University of Japan 383,Canada,383,99.49,95.17,9008.0,9.6,14.5
+University of USA 384,UK,384,33.94,65.86,67130.0,15.1,48.7
+University of Australia 385,China,385,64.84,90.32,,20.0,27.1
+University of South Korea 386,China,386,92.29,97.15,7977.0,20.5,9.7
+University of France 387,Germany,387,79.06,35.35,61496.0,22.0,36.5
+University of France 388,Australia,388,55.73,93.43,54448.0,9.3,37.8
+University of China 389,Canada,389,76.45,81.29,35164.0,28.6,33.3
+University of Japan 390,Japan,390,92.04,34.32,37020.0,24.7,19.6
+University of Japan 391,Australia,391,44.55,85.19,23022.0,14.3,21.5
+University of Australia 392,Canada,392,54.3,90.34,25228.0,7.5,26.2
+University of Canada 393,China,393,70.84,82.5,17672.0,22.6,51.5
+University of Germany 394,USA,394,58.7,42.83,81636.0,13.8,11.6
+University of China 395,Japan,395,74.41,72.03,52608.0,14.3,29.3
+University of USA 396,France,396,34.17,76.22,51510.0,14.9,8.7
+University of Canada 397,Japan,397,59.21,82.02,86809.0,23.0,41.9
+University of UK 398,UK,398,87.99,65.2,44756.0,12.7,38.2
+University of South Korea 399,Japan,399,70.31,45.97,23641.0,9.0,58.7
+University of South Korea 400,UK,400,73.15,93.31,96502.0,23.4,59.0
+University of Japan 401,Australia,401,65.03,91.8,72671.0,14.8,13.1
+University of USA 402,Germany,402,63.43,56.84,93327.0,28.8,19.3
+University of China 403,India,403,41.7,92.35,54256.0,6.1,57.1
+University of Australia 404,Canada,404,34.81,65.53,37620.0,19.1,9.0
+University of South Korea 405,Australia,405,52.97,41.38,24481.0,7.8,49.8
+University of USA 406,Australia,406,32.1,31.66,24606.0,14.3,33.3
+University of China 407,South Korea,407,85.97,41.87,46761.0,17.1,33.3
+University of Japan 408,Australia,408,50.17,32.41,40349.0,18.1,51.5
+University of UK 409,UK,409,64.48,59.72,42048.0,29.2,55.9
+University of Japan 410,UK,410,93.37,60.41,49705.0,26.4,26.1
+University of France 411,South Korea,411,89.91,60.31,54716.0,8.7,10.0
+University of Japan 412,Germany,412,88.19,40.12,5333.0,8.8,22.5
+University of UK 413,Australia,413,66.88,70.16,74942.0,21.7,55.4
+University of USA 414,China,414,76.63,87.44,26333.0,28.8,52.8
+University of Canada 415,India,415,36.46,84.29,15379.0,11.1,33.3
+University of Germany 416,China,416,43.46,67.9,52569.0,7.3,37.7
+University of China 417,South Korea,417,40.06,78.42,17369.0,7.3,41.7
+University of India 418,USA,418,53.86,42.12,98454.0,12.0,32.3
+University of China 419,USA,419,56.77,55.42,87662.0,23.6,38.1
+University of South Korea 420,UK,420,30.05,67.47,14296.0,26.5,49.7
+University of Australia 421,USA,421,39.63,63.19,5725.0,26.5,13.7
+University of France 422,South Korea,422,99.26,79.01,49877.0,27.1,10.6
+University of China 423,China,423,76.49,34.7,6674.0,19.7,25.6
+University of China 424,India,424,72.39,46.47,48839.0,24.2,58.3
+University of Australia 425,UK,425,92.65,48.11,43132.0,19.3,18.8
+University of Japan 426,Germany,426,69.78,46.37,81172.0,25.2,43.9
+University of Canada 427,UK,427,93.51,54.87,93904.0,27.5,43.4
+University of Australia 428,USA,428,45.98,33.81,49211.0,17.1,20.6
+University of Canada 429,UK,429,52.07,94.33,20593.0,20.2,42.4
+University of France 430,France,430,51.36,63.5,29525.0,7.5,25.7
+University of Japan 431,China,431,71.84,47.76,82228.0,26.2,31.5
+University of UK 432,UK,432,63.93,75.82,11959.0,23.8,26.7
+University of Japan 433,UK,433,44.34,74.5,52832.0,10.2,28.1
+University of South Korea 434,Germany,434,31.5,80.89,72389.0,13.9,58.9
+University of USA 435,France,435,81.79,32.77,85850.0,22.8,44.0
+University of China 436,Germany,436,93.18,76.08,33269.0,23.7,18.7
+University of Japan 437,Canada,437,67.54,89.74,79173.0,13.9,9.9
+University of Australia 438,China,438,45.79,88.95,64725.0,6.1,34.2
+University of Germany 439,USA,439,66.65,70.12,61776.0,14.2,20.6
+University of South Korea 440,USA,440,90.58,98.91,68320.0,8.4,26.0
+University of South Korea 441,Canada,441,90.77,91.28,55490.0,14.0,39.2
+University of UK 442,Japan,442,56.34,95.16,6383.0,19.9,14.6
+University of India 443,USA,443,33.57,36.59,68334.0,5.6,38.1
+University of Canada 444,China,444,61.46,52.2,79184.0,14.5,15.0
+University of Canada 445,India,445,56.35,77.07,42187.0,20.9,32.8
+University of UK 446,South Korea,446,31.53,33.99,15510.0,19.6,42.2
+University of China 447,France,447,44.32,70.16,47399.0,8.8,50.7
+University of China 448,UK,448,79.68,46.31,44925.0,12.7,35.6
+University of India 449,Canada,449,48.5,87.05,20899.0,20.9,21.1
+University of Japan 450,Australia,450,87.12,31.43,,8.0,46.6
+University of Japan 451,UK,451,35.48,71.44,72399.0,12.9,50.9
+University of Canada 452,France,452,90.61,78.66,93414.0,21.7,47.5
+University of China 453,USA,453,93.63,63.31,,18.0,23.6
+University of France 454,South Korea,454,97.6,54.06,22951.0,7.1,38.3
+University of Canada 455,USA,455,69.91,90.56,73754.0,11.8,40.9
+University of China 456,India,456,98.24,57.69,50085.0,13.4,39.3
+University of China 457,Australia,457,87.05,59.73,99061.0,8.5,41.7
+University of France 458,France,458,35.54,45.87,96414.0,23.7,51.2
+University of India 459,India,459,79.8,35.87,47854.0,7.8,54.5
+University of China 460,UK,460,72.41,87.94,92826.0,29.1,10.0
+University of South Korea 461,India,461,52.14,51.42,89894.0,26.5,27.9
+University of Canada 462,South Korea,462,82.69,52.31,15485.0,21.4,50.7
+University of UK 463,China,463,40.51,99.87,78555.0,25.9,37.0
+University of South Korea 464,USA,464,43.91,55.39,95641.0,27.0,34.0
+University of China 465,China,465,89.05,46.97,,7.1,56.8
+University of Canada 466,Canada,466,90.97,85.17,28208.0,18.9,9.4
+University of South Korea 467,Australia,467,52.56,85.98,27164.0,14.4,26.3
+University of Germany 468,South Korea,468,71.57,83.12,76608.0,16.7,28.0
+University of Germany 469,South Korea,469,77.37,47.49,80266.0,13.3,
+University of Australia 470,India,470,70.8,31.97,86636.0,5.1,
+University of South Korea 471,France,471,51.15,74.69,63436.0,12.1,18.6
+University of USA 472,USA,472,70.15,84.42,92294.0,8.4,5.7
+University of Japan 473,China,473,66.42,99.94,58259.0,25.4,34.5
+University of Canada 474,India,474,83.07,55.31,18610.0,20.7,11.1
+University of Australia 475,France,475,78.24,73.66,87199.0,29.7,27.3
+University of UK 476,UK,476,85.6,50.37,1593.0,17.4,41.9
+University of Japan 477,South Korea,477,89.76,44.11,94969.0,8.2,54.6
+University of Germany 478,France,478,73.09,38.65,25845.0,28.1,57.6
+University of Germany 479,China,479,39.07,50.99,52620.0,22.2,32.7
+University of USA 480,UK,480,48.11,81.86,1217.0,26.1,59.5
+University of Canada 481,Australia,481,72.83,99.65,1406.0,18.6,17.7
+University of Germany 482,India,482,62.59,97.89,74751.0,28.5,28.5
+University of India 483,USA,483,65.83,,77158.0,5.8,49.4
+University of France 484,Canada,484,50.52,74.25,16608.0,16.8,37.2
+University of South Korea 485,Canada,485,84.72,54.87,67465.0,9.1,20.4
+University of France 486,South Korea,486,68.83,88.3,70858.0,23.6,12.1
+University of India 487,Australia,487,36.91,92.16,51124.0,10.4,54.0
+University of France 488,China,488,63.15,54.98,13728.0,15.5,27.8
+University of France 489,India,489,97.58,95.73,94600.0,27.2,43.3
+University of Canada 490,China,490,30.35,50.7,80425.0,25.0,57.9
+University of Germany 491,China,491,33.12,76.2,98926.0,21.8,5.2
+University of Canada 492,France,492,47.67,34.5,94363.0,9.7,48.8
+University of USA 493,Germany,493,67.17,64.63,98277.0,13.1,26.9
+University of Australia 494,UK,494,80.47,70.38,69125.0,24.2,29.1
+University of Canada 495,Canada,495,62.11,90.62,41164.0,8.7,26.9
+University of Canada 496,South Korea,496,84.16,98.68,83451.0,28.5,40.8
+University of Canada 497,Japan,497,80.71,92.57,54605.0,28.7,52.1
+University of USA 498,Japan,498,32.56,94.1,74260.0,26.3,37.0
+University of USA 499,Japan,499,55.97,68.23,14604.0,20.7,46.0
+University of China 500,UK,500,93.14,79.5,12560.0,28.7,18.8
